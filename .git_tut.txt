@@ -40,3 +40,4 @@ Tako ćemo opet auto mergovati fileove.
 I onda dalje rešavamo konflikte kao sa pocetka file-a. U tom slučaju je dobro i kontaktirati onoga ko je
 napravio izmene u međuvremenu i u konslutaciji sa njim videti šta će se zadržati, a šta ne.
 
+:D
